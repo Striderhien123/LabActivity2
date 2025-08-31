@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alfa_slab_one</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/luxurious_script</item>
+        <item>@font/merienda_one</item>
+        <item>@font/moul</item>
+        <item>@font/mystery_quest</item>
+        <item>@font/rubik_doodle_shadow</item>
+        <item>@font/sonsie_one</item>
+        <item>@font/vast_shadow</item>
+        <item>@font/whisper</item>
+    </array>
+</resources>
